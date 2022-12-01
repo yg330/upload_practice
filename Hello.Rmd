@@ -1,0 +1,11 @@
+---
+title: "Hello_World"
+author: "Yuanjun Gu"
+date: "2022-12-01"
+output: html_document
+---
+
+```{r}
+print('Hello World')
+```
+
